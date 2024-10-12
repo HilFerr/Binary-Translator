@@ -23,7 +23,7 @@ Program that translates binary code to decimal and vice-versa.
 
 1. Go to 'C/Binary Translator/Binary-Translator.exe';
 2. Click the download icon in the top-right corner of the screen;
-3. Chose a folder for the file to the stored;
+3. Choose a folder for the file to the stored;
 4. Double click the file in the folder.
 
 ## How to download the code
@@ -33,5 +33,5 @@ Program that translates binary code to decimal and vice-versa.
 3. Chose a folder for the file to the stored;
 4. Open the folder in your desired code editor.
 
-NOTE: If you wish to run the code inside the code editor, you execute it like any other code, usually by pressing F5 or F9.
+NOTE: If you wish to run the code inside the code editor, you execute it like any other code.
 
