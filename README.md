@@ -1,4 +1,4 @@
-# Binary to Decimal Translator
+# Binary Translator
 
 ## About the program
 
@@ -19,6 +19,10 @@ Program that translates binary code to decimal and vice-versa.
 - Fixed a bug with the variable outputs;
 - Created an executable file named Binary-Translator.exe.
 
+### Version 1.1.1
+
+- Fixed a bug with missing outputs.
+
 ## How to run the executable
 
 1. Go to 'C/Binary Translator/Binary-Translator.exe';
@@ -30,8 +34,6 @@ Program that translates binary code to decimal and vice-versa.
 
 1. Go to 'C/Binary Translator/Binary-Translator.cpp';
 2. Click the download icon in the top-right corner of the screen;
-3. Chose a folder for the file to the stored;
+3. Choose a folder for the file to the stored;
 4. Open the folder in your desired code editor.
-
-NOTE: If you wish to run the code inside the code editor, you execute it like any other code.
 
